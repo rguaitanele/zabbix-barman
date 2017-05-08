@@ -2,7 +2,7 @@
 
 2nd Quadrant Barman monitoring template for Zabbix.
 
-##Requirements:
+## Requirements:
 In order to run this template there is needed to configure following options for Zabbix
 
 1. Configure sudo option for zabbix user:
@@ -10,7 +10,7 @@ In order to run this template there is needed to configure following options for
 2. Enable zabbix user shell access
    `usermod -s /bin/bash zabbix`
    
-##Installation:
+## Installation:
 1. Put zabbix-barman-items.conf	on barman server
 2. Restart zabbix-agent
 3. Import zabbix-barman-template.xml
