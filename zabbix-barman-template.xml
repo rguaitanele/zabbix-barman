@@ -12,8 +12,8 @@
     </groups>
     <templates>
         <template>
-            <template>Orlovs Barman Backup</template>
-            <name>Orlovs Barman Backup</name>
+            <template>Template App Barman Backup</template>
+            <name>Template App Barman Backup</name>
             <description/>
             <groups>
                 <group>
